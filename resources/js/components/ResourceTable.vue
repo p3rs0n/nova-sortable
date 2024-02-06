@@ -56,7 +56,7 @@
 </template>
 
 <script>
-import { InteractsWithResourceInformation } from 'laravel-nova-mixins'
+import { InteractsWithResourceInformation } from '../../../vendor/laravel/nova/resources/js/mixins'
 import { VueDraggableNext } from 'vue-draggable-next'
 import ReordersResources from '../mixins/ReordersResources'
 
